@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+watsonconfiguration:
+  services:
+    talktome:
+      username: 055a8d6a-4469-4ea4-bd06-195f351ac9e8
+      password: q27qSFVlMFT4
+      endpoint: https://gateway-fra.watsonplatform.net/conversation/api
+      defaultWorkspaceId: b857ccec-2f07-4c30-998e-16eb6ac84825
